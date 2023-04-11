@@ -10,7 +10,7 @@ const Geolocation:React.FC<Igeolocation> = ({lon,lat,town})=>{
                 <p>Долгота:{lon}</p>
                 <p>Широта:{lat}</p>
             </div>
-            <Link to='/combobox'>Предыдущее задание</Link>
+            <Link to='/combobox'>Следующее задание</Link>
         </div>
     )
 }

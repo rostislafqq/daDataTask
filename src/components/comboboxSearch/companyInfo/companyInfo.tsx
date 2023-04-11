@@ -23,7 +23,7 @@ const CompanyInfo:React.FC<PCompanyInfo> =({companyInfoData,companyInfo}) =>{
                 </ul>
                 
             </div>
-            <Link to='/geolacation'>Второе задание</Link>
+            <Link to='/geolacation'>Предыдущее задание</Link>
         </>
     )
 }
