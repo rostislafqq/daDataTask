@@ -27,3 +27,4 @@ https://dadata.ru/api/find-party/
 Визуализация информации (дизайн) - на усмотрение исполнителя
 
 </pre>
+<a href='https://rostislafqq.github.io/daDataTask/' >ссылка на приложение </a>
