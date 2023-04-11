@@ -8,9 +8,8 @@ const App= () => {
 
   return (
     <Routes>
-      <Route path='*' element={<Navigate to='/'/>}/>
-      dsffsdsfd
-      {/* <Route path="/" element={<GeolocationContainer />} /> */}
+      <Route path='*' element={<Navigate to='/geolacation'/>}/>
+      <Route path="/geolacation" element={<GeolocationContainer />} /> 
       <Route path="/combobox" element={<ComboboxContainer />} />
     </Routes>
   );
